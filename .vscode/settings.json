@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "encode.h": "c",
+        "types.h": "c"
+    }
+}
